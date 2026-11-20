@@ -1,0 +1,1702 @@
+{
+ "url": "index.html",
+ "at": "2026-11-20T21:45:28.602Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.91,
+    0.68,
+    0.68,
+    0.6,
+    0.8,
+    0.73,
+    0.58,
+    0.81,
+    0.74,
+    0.79,
+    1
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 10625,
+     "screens": 11.8,
+     "words": 1042,
+     "img": 7,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 6,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 5,
+     "pictureSamples": [
+      "dandelion-closeup.jpg",
+      "pisum-sativum-mhnt-bot-2010-12-9.jpg",
+      "sequoiadendron-giganteum-mhnt-bot-2004-0-191.jpg",
+      "phaseolus-vulgaris-mhnt-bot-2016-24-73.jpg",
+      "acacia-sp-mhnt-bot-2009-13-18.jpg",
+      "pinus-pinea-mhnt-2022-4-1.jpg",
+      "storage-containers-in-svalbard-global-seed-vault"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "chars": 16,
+     "lines": 2,
+     "size": 195.8,
+     "vw": 13.6,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.61,
+     "top": 144,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "lines": 2,
+     "size": 195.8,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "Sown, not hosted",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 195.8,
+      "vw": 13.6,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 144,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "From the swarm to your disk",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 2006,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hardy varieties",
+      "words": 2,
+      "chars": 15,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 3205,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How your client reads a project",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.64,
+      "top": 4865,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "When things go wrong",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.64,
+      "top": 6255,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Install",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 388.8,
+      "vw": 27,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.78,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 7632,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sowing instructions",
+      "words": 2,
+      "chars": 19,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.38,
+      "top": 8151,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Keep a copy alive.",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 72,
+      "vw": 5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.56,
+      "top": 9842,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "gitseed",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 417.6,
+      "vw": 29,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 10377,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 1,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.72,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.24,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.04,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 4,
+     "sizes": [
+      14,
+      17,
+      19,
+      22,
+      26,
+      72,
+      196,
+      389,
+      418
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 19,
+      "leading": 1.6,
+      "weight": 400,
+      "tracking": 0.01,
+      "contrast": null
+     },
+     "measureChars": 90,
+     "max": {
+      "size": 417.6,
+      "vw": 29,
+      "font": "Bodoni Moda",
+      "text": "gitseed"
+     },
+     "monoShare": 0.24,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#a7ff9c",
+       "top": 0,
+       "hsl": {
+        "h": 113,
+        "s": 1,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#222222",
+       "top": -86,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 900,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#c5c5c5",
+       "top": 4693,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#2a2a2a",
+       "top": 7959,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 8079,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.61
+      },
+      {
+       "color": "#111111",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.1
+      },
+      {
+       "color": "#555555",
+       "share": 0.07
+      },
+      {
+       "color": "#d0d0d0",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#a7ff9c",
+      "hsl": {
+       "h": 113,
+       "s": 1,
+       "l": 0.81
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 1,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Install gitseed"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 99,
+     "squareMedia": 7,
+     "roundedMedia": 1,
+     "mediaRadius": 999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 900,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.81,
+    0.65,
+    0.68,
+    0.59,
+    0.75,
+    0.93,
+    0.69,
+    0.7,
+    0.65,
+    0.58,
+    1
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 0,
+    "transitions": 25,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 12163,
+     "screens": 11.9,
+     "words": 1042,
+     "img": 7,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 6,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 5,
+     "pictureSamples": [
+      "dandelion-closeup.jpg",
+      "pisum-sativum-mhnt-bot-2010-12-9.jpg",
+      "sequoiadendron-giganteum-mhnt-bot-2004-0-191.jpg",
+      "phaseolus-vulgaris-mhnt-bot-2016-24-73.jpg",
+      "acacia-sp-mhnt-bot-2009-13-18.jpg",
+      "pinus-pinea-mhnt-2022-4-1.jpg",
+      "storage-containers-in-svalbard-global-seed-vault"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "chars": 16,
+     "lines": 2,
+     "size": 104.4,
+     "vw": 13.6,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.61,
+     "top": 164,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "lines": 2,
+     "size": 104.4,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "gitseed",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 26,
+      "vw": 3.4,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 19,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Sown, not hosted",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 104.4,
+      "vw": 13.6,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 164,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "From the swarm to your disk",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 2103,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hardy varieties",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 4227,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How your client reads a project",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.95,
+      "top": 6294,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "When things go wrong",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.62,
+      "top": 7716,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Install",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 207.4,
+      "vw": 27,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.78,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 9344,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sowing instructions",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.72,
+      "top": 9721,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Keep a copy alive.",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 48.4,
+      "vw": 6.3,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.54,
+      "top": 11259,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "gitseed",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 222.7,
+      "vw": 29,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 12031,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 1,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.72,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.24,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.04,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 4,
+     "sizes": [
+      13,
+      16,
+      18,
+      22,
+      23,
+      26,
+      48,
+      104,
+      207,
+      223
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 17.9,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0.01,
+      "contrast": null
+     },
+     "measureChars": 90,
+     "max": {
+      "size": 222.7,
+      "vw": 29,
+      "font": "Bodoni Moda",
+      "text": "gitseed"
+     },
+     "monoShare": 0.24,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#a7ff9c",
+       "top": 0,
+       "hsl": {
+        "h": 113,
+        "s": 1,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#222222",
+       "top": -88,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.13
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 1024,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#dddddd",
+       "top": 2353,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#c5c5c5",
+       "top": 6198,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#2a2a2a",
+       "top": 9529,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 9649,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.61
+      },
+      {
+       "color": "#111111",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.1
+      },
+      {
+       "color": "#555555",
+       "share": 0.07
+      },
+      {
+       "color": "#d0d0d0",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#a7ff9c",
+      "hsl": {
+       "h": 113,
+       "s": 1,
+       "l": 0.81
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 1,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Install gitseed"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 99,
+     "squareMedia": 7,
+     "roundedMedia": 1,
+     "mediaRadius": 999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 1024,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost"
+    ]
+   },
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    1,
+    0.85,
+    0.69,
+    0.68,
+    0.74,
+    0.74,
+    1,
+    0.79,
+    0.87,
+    0.86,
+    0.46,
+    0.68
+   ],
+   "motion": {
+    "elements": 23,
+    "css": 0,
+    "transitions": 23,
+    "scripted": 0,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 10642,
+     "screens": 12.6,
+     "words": 1028,
+     "img": 7,
+     "video": 1,
+     "canvas": 0,
+     "svg": 2,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 6,
+     "uiAbuse": false,
+     "realPictures": 8,
+     "videoCount": 1,
+     "uiPictures": 1,
+     "pictureSamples": [
+      "dandelion-closeup.jpg",
+      "pisum-sativum-mhnt-bot-2010-12-9.jpg",
+      "sequoiadendron-giganteum-mhnt-bot-2004-0-191.jpg",
+      "phaseolus-vulgaris-mhnt-bot-2016-24-73.jpg",
+      "acacia-sp-mhnt-bot-2009-13-18.jpg",
+      "pinus-pinea-mhnt-2022-4-1.jpg",
+      "storage-containers-in-svalbard-global-seed-vault"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": []
+    },
+    "hero": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "chars": 16,
+     "lines": 2,
+     "size": 68.3,
+     "vw": 17.5,
+     "font": "Bodoni Moda",
+     "weight": 500,
+     "tracking": -0.03,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.79,
+     "top": 101,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Sown, not hosted",
+     "words": 3,
+     "lines": 2,
+     "size": 68.3,
+     "font": "Bodoni Moda"
+    },
+    "headings": [
+     {
+      "text": "gitseed",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.21,
+      "top": 18,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "Sown, not hosted",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 68.3,
+      "vw": 17.5,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.03,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 101,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "‹",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Arial",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 1567,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "›",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Arial",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 1567,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "From the swarm to your disk",
+      "words": 6,
+      "chars": 27,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1775,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Hardy varieties",
+      "words": 2,
+      "chars": 15,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 3204,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "How your client reads a project",
+      "words": 6,
+      "chars": 31,
+      "lines": 2,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4636,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "When things go wrong",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6631,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Install",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 109.2,
+      "vw": 28,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.78,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.74,
+      "top": 8090,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Sowing instructions",
+      "words": 2,
+      "chars": 19,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 8327,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Keep a copy alive.",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.02,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 9970,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "gitseed",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 140.4,
+      "vw": 36,
+      "font": "Bodoni Moda",
+      "weight": 500,
+      "tracking": -0.05,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 10559,
+      "tag": "div",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 3,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Jost",
+       "share": 0.72,
+       "mono": false
+      },
+      {
+       "family": "ui-monospace",
+       "share": 0.25,
+       "mono": false
+      },
+      {
+       "family": "Bodoni Moda",
+       "share": 0.04,
+       "mono": false
+      },
+      {
+       "family": "Arial",
+       "share": 0,
+       "mono": false
+      }
+     ],
+     "familyCount": 4,
+     "sizes": [
+      13,
+      15,
+      17,
+      20,
+      22,
+      26,
+      35,
+      36,
+      43,
+      68,
+      109,
+      140
+     ],
+     "sizeCount": 12,
+     "notLoaded": [],
+     "body": {
+      "font": "Jost",
+      "size": 17,
+      "leading": 1.4,
+      "weight": 400,
+      "tracking": 0.01,
+      "contrast": null
+     },
+     "measureChars": 55,
+     "max": {
+      "size": 140.4,
+      "vw": 36,
+      "font": "Bodoni Moda",
+      "text": "gitseed"
+     },
+     "monoShare": 0.25,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "ui-monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.03,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#a7ff9c",
+       "top": 0,
+       "hsl": {
+        "h": 113,
+        "s": 1,
+        "l": 0.81
+       }
+      },
+      {
+       "color": "#000000",
+       "top": 844,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0
+       }
+      },
+      {
+       "color": "#ffffff",
+       "top": 908,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#f2f2f2",
+       "top": 2838,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#c5c5c5",
+       "top": 4540,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.77
+       }
+      },
+      {
+       "color": "#2a2a2a",
+       "top": 8199,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.16
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#000000",
+       "share": 0.61
+      },
+      {
+       "color": "#111111",
+       "share": 0.17
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.1
+      },
+      {
+       "color": "#555555",
+       "share": 0.07
+      },
+      {
+       "color": "#d0d0d0",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#a7ff9c",
+      "hsl": {
+       "h": 113,
+       "s": 1,
+       "l": 0.81
+      },
+      "fg": "#000000"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 1,
+     "radius": 0,
+     "height": 56,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Install gitseed"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 1,
+     "boxRadius": 99,
+     "squareMedia": 3,
+     "roundedMedia": 1,
+     "mediaRadius": 999,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 1,
+     "fixed": false,
+     "height": 844,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bodoni moda",
+     "jost"
+    ]
+   },
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "font-count",
+   "width": 1440,
+   "message": "3 typefaces in use (Jost, ui-monospace, Bodoni Moda).",
+   "fix": "Two at most.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 1440,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "measure",
+   "width": 1440,
+   "message": "Longest paragraph runs about 90 characters per line.",
+   "fix": "Cap paragraphs at 45–75 characters (max-width: 60ch).",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 768,
+   "message": "10 different font sizes (13, 16, 18, 22, 23, 26, 48, 104, 207, 223).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/desktop-page-01.jpg",
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/desktop-page-02.jpg",
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/desktop-page-03.jpg"
+   ]
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/tablet-page-01.jpg",
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/tablet-page-02.jpg"
+   ]
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/mobile-page-01.jpg",
+    "/home/abdullah/.t3/projects/p2p-github/site/.taste-skill/inspect/mobile-page-02.jpg"
+   ]
+  }
+ ]
+}
